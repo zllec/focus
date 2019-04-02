@@ -1,0 +1,31 @@
+name: focus
+description: Stay focused on your goals!
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+  fonts:
+    - family: Raleway
+      fonts:
+      - asset: fonts/Raleway/Raleway-Black.ttf
+    - family: Roboto
+      fonts:
+      - asset: fonts/Roboto/Roboto-Regular.ttf
+  assets:
+    - assets/launcher.png
