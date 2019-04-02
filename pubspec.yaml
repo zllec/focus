@@ -15,7 +15,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
+flutter_icons:
+  android: true
+  image_path: "assets/launcher.png"
 
 flutter:
 
