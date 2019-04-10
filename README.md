@@ -2,7 +2,7 @@
 
 Stay focused on your goals!
 
-![GIF](screenshots/focus.gif)
+![GIF](screenshots/Focus.gif)
 
 This app features random wise words from wise people throughout history.
 
