@@ -1,16 +1,13 @@
-# focus
+# Focus
 
 Stay focused on your goals!
 
-## Getting Started
+![GIF](screenshots/focus.gif)
 
-This project is a starting point for a Flutter application.
+This app features random wise words from wise people throughout history.
 
-A few resources to get you started if this is your first Flutter project:
+Feel free to download and give feedback.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Credits
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- https://gist.github.com/nasrulhazim/54b659e43b1035215cd0ba1d4577ee80
